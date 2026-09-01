@@ -1,16 +1,20 @@
-# 🌾 Wildflower Meadow — SDA Challenge 2026, University of Potsdam
+## 🌾 Wildflower Meadow | SDA Challenge 2026, University of Potsdam
 
-A biodiversity restoration concept for an underused lawn at **Campus Am Neuen Palais**, developed for the **Sustainable Development Academy (SDA) Challenge 2026** — a real consulting brief commissioned by the University of Potsdam's Green Office.
+A biodiversity restoration concept for an underused lawn at **Campus Am Neuen Palais**, developed for the **Sustainable Development Academy (SDA) Challenge 2026**, you can find a real consulting brief presented in the file `assets` push. 
 
 **Team:** Flower Power
+
 **Commissioner:** Mareike Friedrich, Green Office, University of Potsdam
+
 **Academic mentor:** Tara Meghana Kaila
+
 **SDGs addressed:** SDG 12 (Responsible Consumption & Production) · SDG 15 (Life on Land)
+
 **Budget cap:** €15,000
 
-## The brief
+## Case Problem
 
-The University of Potsdam wanted to make its campuses greener and more biodiverse without a large budget — real, actionable proposals a public university could implement with limited resources. Five student teams each picked one site and scenario; our team was assigned **Option A: Wildflower Meadow**, a lawn area on Campus Am Neuen Palais that was underused and ecologically barren, sitting within a heritage-protected setting.
+The University of Potsdam wanted to make its campuses greener and more biodiverse without a large budget. They're expected to receive real, actionable proposals that a public university could implement with limited resources. Five student teams each picked one site and scenario; our team dive into **Option A: Wildflower Meadow**, a lawn area on Campus Am Neuen Palais that was underused and ecologically barren, sitting within a heritage-protected setting.
 
 Full brief: [`reference/challenge-brief.pdf`](reference/challenge-brief.pdf)
 
