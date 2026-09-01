@@ -49,6 +49,14 @@ Each doc includes the extracted slide content plus the rendered slide image(s) f
 - [x] Community engagement idea
 - [x] Optional awareness element (QR-code biodiversity education)
 
-## Context
+## Team / Authors
 
 Completed during a fully funded SDA exchange at the University of Potsdam, Germany (July 2026), working with an international, cross-cultural student team.
+
+- Sylvie Quynh
+- [Diamond Excell Samuel](https://www.linkedin.com/in/diamond-excell-samuel/)
+- [Billton Lartey Nyarko](https://www.linkedin.com/in/billton-nyarko-lartey/)
+- [Daniel Mensah Losu](https://www.linkedin.com/in/dml100/)
+- Alessio Vinci
+
+
